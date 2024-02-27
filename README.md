@@ -1,1 +1,1 @@
-# Understanding_Model_Learning_Dynamics_Using_SynerGNet
+# Navigating_Model_Learning_Dynamics_Using_SynerGNet
