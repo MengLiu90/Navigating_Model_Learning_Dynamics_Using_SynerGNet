@@ -1,1 +1,3 @@
-As 5-fold cross validation protocol was utilzed when doing examination on the models configured with different convolutinal layers, the trained model
+We employed a 5-fold cross-validation protocol to assess models configured with different convolutional layers. 
+Each trained model generated during this process is associated with five .pth files, corresponding to the five folds utilized in the cross-validation. 
+These .pth files record the training results of the model for each fold.
