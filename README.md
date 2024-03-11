@@ -14,6 +14,7 @@ This repository records all the models utilized in the paper, including
 4. sklearn 0.23.2
 5. pandas 1.1.3
 6. CUDA 11.1
+7. Matplotlib 3.5.1
 
 ## Trained models
 The trained models for different configurations are recorded in ```./Trained_models/```directory.
@@ -32,11 +33,13 @@ Run ```python Train.py synergy_file_path h5py_dir_path model_name```
 ```model_name``` specifies the model that you want to run. The available options are ```Baseline_model```, ```SAGEConv```, ```GATv2Conv```, ```GINConv```, ```TransformerConv```, and ```GENConv```.
 
 ## Results reproduction
+```./Results_reproduction/``` directory offers the reproduction of the results (figures) presented in the paper.
 
 ## Remark
 GENConv-configured GNN model was ultimately selected as the final model, designated as SynerGNet.
 
 For further details on SynerGNet and instructions on its usage, please refer to https://github.com/MengLiu90/SynerGNet.
+
 ## Synergy Datasets used in this paper
 Two synergy datasets were utilized in this study:
 1. Original synergy dataset
