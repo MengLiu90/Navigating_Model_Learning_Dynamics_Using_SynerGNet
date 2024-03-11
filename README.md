@@ -27,6 +27,4 @@ Run ```python Train.py synergy_file_path h5py_dir_path model_name```
 
 ```h5py_dir_path``` denotes the directory path where the .h5 format graphs are stored.
 
-```model_name``` specifies the model that you want to run. 
-
-The available options are ```Baseline_model```, ```SAGEConv```, ```GATv2Conv```, ```GINConv```, ```TransformerConv```, and ```GENConv```.
+```model_name``` specifies the model that you want to run. The available options are ```Baseline_model```, ```SAGEConv```, ```GATv2Conv```, ```GINConv```, ```TransformerConv```, and ```GENConv```.
