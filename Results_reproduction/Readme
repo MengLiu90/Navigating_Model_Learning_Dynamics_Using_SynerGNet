@@ -1,3 +1,5 @@
 ```results_GEN_weak_regularization```  holds information about the model's performance under weak regularization, where the test loss increases along with improved predictive accuracy.
 
 ```results_GEN_weak_regularization``` contains information on model performance with enhanced regularization, effectively mitigating overfitting tendencies.
+
+```Figure2.py``` reproduces Figure 2 in the paper.
