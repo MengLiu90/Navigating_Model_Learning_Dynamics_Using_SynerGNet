@@ -1,5 +1,3 @@
-```results_GEN_weak_regularization``` contains the information of the model performance when the regularization strength is weak, 
-where the test loss increases and the predictive accuracy also increases.
+```results_GEN_weak_regularization```  holds information about the model's performance under weak regularization, where the test loss increases along with improved predictive accuracy.
 
-```results_GEN_weak_regularization``` contains the information of the model performance when the regularization strength is enhanced,
-where the overfitting trend is effectively eliminated.
+```results_GEN_weak_regularization``` contains information on model performance with enhanced regularization, effectively mitigating overfitting tendencies.
