@@ -32,6 +32,7 @@ Run ```python Train.py synergy_file_path h5py_dir_path model_name```
 ```model_name``` specifies the model that you want to run. The available options are ```Baseline_model```, ```SAGEConv```, ```GATv2Conv```, ```GINConv```, ```TransformerConv```, and ```GENConv```.
 ## Remark
 GENConv-configured GNN model was ultimately selected as the final model, designated as SynerGNet.
+
 For further details on SynerGNet and instructions on its usage, please refer to https://github.com/MengLiu90/SynerGNet.
 ## Synergy Datasets used in this paper
 Two synergy datasets were utilized in this study:
