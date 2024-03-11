@@ -6,6 +6,7 @@ This repository records all the models utilized in the paper, including
 * GINConv-configured GNN model
 * TransformerConv-configured GNN model
 * GENConv-configured GNN model
+
 The details of how to use the SynerGNet are provided in the repository https://github.com/MengLiu90/SynerGNet.
 ## Dependencies
 1. pytorch 1.10.0
