@@ -5,7 +5,7 @@ This repository records all the models utilized in the paper, including
 * GATv2Conv-configured GNN model
 * GINConv-configured GNN model
 * TransformerConv-configured GNN model
-* GENConv-configured GNN model
+* GENConv-configured GNN model (SynerGNet)
 
 The details of how to use the SynerGNet are provided in the repository https://github.com/MengLiu90/SynerGNet.
 ## Dependencies
