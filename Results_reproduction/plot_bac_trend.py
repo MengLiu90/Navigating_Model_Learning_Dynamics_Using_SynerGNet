@@ -5,7 +5,7 @@ import os
 
 # bac trend plot
 figure_dir = ''
-df = pd.read_csv('for_plots.csv')
+df = pd.read_csv('data/for_plots.csv')
 
 fig, ax = plt.subplots(figsize=(10, 9), dpi=300)
 ax.plot(df.power, df.mean_bac, color='blue', lw=2, marker='o', label='Mean Values')
