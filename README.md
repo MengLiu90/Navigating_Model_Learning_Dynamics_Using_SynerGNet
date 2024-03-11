@@ -16,6 +16,9 @@ The details of how to use the SynerGNet are provided in the repository https://g
 5. pandas 1.1.3
 6. CUDA 11.1
 
+## Trained models
+
+
 ## To run the models with your data
 ### Prepare your data:
 1. Prepare a .csv file containing synergy instances, following the format exemplified in ```./Example_data/drugcombs_synergy_data.csv```.
