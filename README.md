@@ -17,7 +17,7 @@ The details of how to use the SynerGNet are provided in the repository https://g
 6. CUDA 11.1
 
 ## Trained models
-
+The trained models for different configuration are recorded in ```./Trained_models/```directory.
 
 ## To run the models with your data
 ### Prepare your data:
