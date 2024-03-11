@@ -1,5 +1,11 @@
 # Navigating_Model_Learning_Dynamics_Using_SynerGNet
-This repository records the trained models to reproduce the results in the paper.
+This repository records all the models utilized in the paper, including
+* Baseline model
+* SAGEConv-configured GNN model
+* GATv2Conv-configured GNN model
+* GINConv-configured GNN model
+* TransformerConv-configured GNN model
+* GENConv-configured GNN model
 The details of how to use the SynerGNet are provided in the repository https://github.com/MengLiu90/SynerGNet.
 ## Dependencies
 1. pytorch 1.10.0
