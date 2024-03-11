@@ -3,3 +3,7 @@
 ```results_GEN_weak_regularization``` contains information on model performance with enhanced regularization, effectively mitigating overfitting tendencies.
 
 ```Figure2.py``` reproduces Figure 2 in the paper.
+
+```data``` contains the information used for generating Figure 3 and Figure 4 in the paper.
+
+```plot_bac_trend.py``` reproduces Figure 3 and Figure 4 in the paper.
